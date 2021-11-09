@@ -18,10 +18,10 @@
     "url": "https://github.com/dferber90/jest-transform-css.git"
   },
   "devDependencies": {
-    "postcss": "^7.0.2"
+    "postcss": ">=7.0.2"
   },
   "peerDependencies": {
-    "postcss": "^7.0.2"
+    "postcss": ">=7.0.2"
   },
   "keywords": [
     "postcss-runner",
